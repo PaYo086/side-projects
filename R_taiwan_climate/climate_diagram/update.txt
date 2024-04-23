@@ -1,0 +1,12 @@
+https://zdealveindy.shinyapps.io/climate_diagram/
+
+v1.0
+origin
+
+v1.1
+add year 2018
+
+v1.2
+add Lalashan, but only fixed year range (2008-2017)
+
+
